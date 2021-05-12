@@ -1,1 +1,1 @@
-# Quantum Program With QIBM
+# Quantum Program With IBM Qiskit
